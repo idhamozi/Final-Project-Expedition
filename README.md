@@ -8,6 +8,8 @@ Final Project dari Mata Kuliah Struktur Data dengan Studi Kasus Sistem Ekspedisi
 4. Mohammad Idham Fachrurrozi (17081010044) [Github Profile](github.com/idhamozi)
 
 ### Keterangan
- - 
- - 
- - 
+ - Input Data Paket ==> Single Linked List
+ - Sorting Paket ==> Circular Linked List
+ - Mengirim Paket ==> Queue
+
+### Compile with Dev-C/Code::Blocks
