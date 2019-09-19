@@ -1,5 +1,5 @@
 # Final Project Case Study Expedition
-Final Project dari Mata Kuliah Struktur Data dengan Studi Kasus Sistem Ekspedisi Pengiriman Barang dalam Bahasa Pemrograman C
+Final Project dari Mata Kuliah Struktur Data dengan Studi Kasus Sistem Ekspedisi Pengiriman Barang dalam Bahasa Pemrograman C++
 
 ### Collaborators
 1. Yuri Setiawan (17081010039) [Github Profile](https://github.com/yurisetiawan43)
